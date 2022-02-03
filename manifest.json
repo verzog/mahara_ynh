@@ -27,6 +27,8 @@
     "services": [
         "nginx",
         "php7.3-fpm"
+	    "mysql""
+	   
     ],
     "arguments": {
         "install" : [
