@@ -1,5 +1,5 @@
-SOURCE_URL=url of app's source
-SOURCE_SUM=sha256 checksum
+SOURCE_URL=https://github.com/MaharaProject/mahara/archive/refs/heads/main.zip
+SOURCE_SUM=b61ddde8cfece281b49e05b01c5a165bdb955b02c3029aaadf9950a41802a5ab
 SOURCE_SUM_PRG=sha256sum
 SOURCE_FORMAT=tar.gz
 SOURCE_IN_SUBDIR=true
